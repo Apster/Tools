@@ -1,0 +1,1 @@
+C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe -NoProfile -Sta -windowstyle Hidden -File "Path\StorM2.ps1" -StartKey M -PauseKey P
